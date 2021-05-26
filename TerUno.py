@@ -8,4 +8,4 @@ class TestResult(unittest.TestCase):
             suma = suma + numero
             numero = numero + 1
         print ('la suma total es ' + str(suma))
-        self.assertEqual(suma)
+        self.assertEqual(suma,28)
