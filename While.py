@@ -1,4 +1,5 @@
+w = 20
 while w < 10:
-  Print(w)
-  w = w + 1
-Print ('se termino el ciclo')
+  print(w) 
+  w = w + 1 
+print('se termino el ciclo')

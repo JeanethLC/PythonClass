@@ -1,5 +1,5 @@
-lista = [ 'Un', 'Dos', 'Tres']
-str = ''
-for w in lista():
-  str = str + length(lista(w))
-print(str)
+lista = ['Un', 'Dos', 'Tres']
+stri = ''
+for w in lista:
+  stri = stri + str(len(w))
+print(stri)
