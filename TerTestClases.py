@@ -1,6 +1,6 @@
 # test
 import unittest
-import SegClases
+from SegClases import Gato
 
 class test_result(unittest.TestCase): 
     def test_result(self):
